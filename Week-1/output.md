@@ -1,9 +1,17 @@
-## Execution Output
+## Execution Output 👌
 
-### Singleton pattern
+### Singleton Pattern
 
 ![Singleton Output](./assets/singleton.png)
 
-### Factory Method pattern
+### Factory Method Pattern
 
 ![Factory Output](./assets/factory.png)
+
+### E-commerce Search
+
+![E-commerce Output](./assets/ecommerce.png)
+
+### Financial Forecasting
+
+![Financial Output](./assets/financial.png)
