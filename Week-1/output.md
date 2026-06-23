@@ -15,3 +15,7 @@
 ### Financial Forecasting
 
 ![Financial Output](./assets/financial.png)
+
+### Logging using SLF4J
+
+![Logging Output](./assets/Logging.png)
