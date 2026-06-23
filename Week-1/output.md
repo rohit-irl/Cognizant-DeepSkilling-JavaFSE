@@ -26,3 +26,7 @@
 ### Assertions in JUnit
 
 ![Junit setup](./assets/JUNITex3.png)
+
+### AAA Pattern
+
+![JUnit AAA Pattern](./assets/JUNITex4.png)
