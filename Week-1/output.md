@@ -19,3 +19,7 @@
 ### Logging using SLF4J
 
 ![Logging Output](./assets/Logging.png)
+
+### Setting Up JUNIT
+
+![Junit setup](./assets/JUNITex1.png)
