@@ -20,6 +20,9 @@
 
 ![Logging Output](./assets/Logging.png)
 
-### Setting Up JUNIT
-
+### Setting Up JUnit
 ![Junit setup](./assets/JUNITex1.png)
+
+### Assertions in JUnit
+
+![Junit setup](./assets/JUNITex3.png)
