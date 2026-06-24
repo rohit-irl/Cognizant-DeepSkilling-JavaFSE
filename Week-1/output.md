@@ -43,3 +43,15 @@
 ### Verifying Interaction
 
 ![Mockito Verification](./assets/Mockitoex2.png)
+
+## PLSQL
+
+### Control Structures
+
+![Control structure](./assets/PLSQLex1.png)
+
+### Stored Procedure
+
+![Stored Procedure : Query Result](./assets/PLSQLex3.1.png)
+
+![Stored Procedure : DBMS Output](./assets/PLSQLex3.2.png)
