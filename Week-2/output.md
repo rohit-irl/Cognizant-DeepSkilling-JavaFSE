@@ -1,5 +1,8 @@
 # Execution Output 👌
 
+## Spring Core Maven
+
+---
 
 ## Exercise 1: Configuring a Basic Spring Application
 
@@ -28,5 +31,12 @@
 
 ### 2. Compiler Plugin Configuration & Build Output
 ![Compiler Plugin and Build Output](/Week-2/assets/outputex-4.png)
+
+---
+
+## SpringData_JPA
+
+## SpringData_JPA Quick Example
+![Quick example](/Week-2/assets/springjpa_quickexample.png)
 
 ---
