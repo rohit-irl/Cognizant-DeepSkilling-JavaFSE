@@ -34,9 +34,16 @@
 
 ---
 
-## SpringData_JPA
+## Spring Data JPA
 
-## SpringData_JPA Quick Example
+## Spring Data JPA Quick Example
 ![Quick example](/Week-2/assets/springjpa_quickexample.png)
 
 ---
+
+## Difference between JPA, Hibernate and Spring Data JPA
+### 1. IntelliJ Console Output
+ ![Intellij console](/Week-2/assets/intellijex-4.png)
+
+### 2. MySQL Employee Table Output
+![MySQL Output](/Week-2/assets/mysql-ex4.png)
