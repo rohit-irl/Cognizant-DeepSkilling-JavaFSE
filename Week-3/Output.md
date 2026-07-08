@@ -78,3 +78,19 @@
 ### 3. Postman Output
 
 ![Postman Output](/Week-3/assets/get-country-postman-output.png)
+
+---
+
+# JWT Hands-on
+
+## Create Authentication Service that Returns JWT
+
+### 1. AuthenticationController & SecurityConfig
+
+![AuthenticationController and SecurityConfig](/Week-3/assets/jwt-controller-securityconfig.png)
+
+---
+
+### 2. JWT Token Generated (Postman)
+
+![JWT Token Response](/Week-3/assets/jwt-postman-output.png)
