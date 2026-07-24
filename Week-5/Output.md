@@ -35,8 +35,6 @@
 ---
 
 
-## 6. ReactJS-HOL
+## 5. ReactJS-HOL
 
 ![Cohorts Details Output](assets/ReactJS-HOL-5.png)
-
----
