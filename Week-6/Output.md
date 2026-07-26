@@ -70,3 +70,17 @@
 ![Commit](assets/GIT-HOL-2.2.png)
 
 ---
+
+## 3. GIT-HOL
+
+### Gitbash
+
+![Gitbash Terminal](assets/GIT-HOL-3.1.png)
+
+---
+
+### P4Merge
+
+![Commit](assets/GIT-HOL-3.2.png)
+
+---
