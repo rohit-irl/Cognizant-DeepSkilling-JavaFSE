@@ -47,10 +47,26 @@
 
 ## 1. GIT-HOL
 
-## Gitbash 
+### Gitbash 
 
 ![Gitbas Terminal](assets/GIT-HOL-1.2.png)
 
-## Notepad++
+### Notepad++
 
 ![Notepad++](assets/GIT-HOL-1.1.png)
+
+---
+
+## 2. GIT-HOL
+
+### Gitbash
+
+![Gitbash Terminal](assets/GIT-HOL-2.1.png)
+
+---
+
+### Commit and push
+
+![Commit](assets/GIT-HOL-2.2.png)
+
+---
