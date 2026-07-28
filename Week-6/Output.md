@@ -96,3 +96,11 @@
 ### P4Merge - Conflict Resolution
 
 ![P4Merge](assets/GIT-HOL-4.2.png)
+
+---
+
+## 5. GIT-HOL
+
+### Git Bash
+
+![Git Bash Terminal](assets/GIT-HOL-5.png)
