@@ -84,3 +84,15 @@
 ![Commit](assets/GIT-HOL-3.2.png)
 
 ---
+
+## 4. GIT-HOL
+
+### Git Bash - Merge Conflict Resolution
+
+![Git Bash Terminal](assets/GIT-HOL-4.1.png)
+
+---
+
+### P4Merge - Conflict Resolution
+
+![P4Merge](assets/GIT-HOL-4.2.png)
